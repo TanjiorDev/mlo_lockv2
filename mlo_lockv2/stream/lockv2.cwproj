@@ -1,0 +1,69 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>map1.ymap</Item>
+    <Item>lr_sc1_occl_00.ymap</Item>
+    <Item>map2.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>shell_model_keys.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>shell_model_keys_col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>porops_fenetre.ydr</Item>
+    <Item>porps_door.ydr</Item>
+    <Item>props_accueil.ydr</Item>
+    <Item>props_armoire.ydr</Item>
+    <Item>props_chair1.ydr</Item>
+    <Item>props_chair2.ydr</Item>
+    <Item>props_chair3.ydr</Item>
+    <Item>props_chair4.ydr</Item>
+    <Item>props_door_comptoir.ydr</Item>
+    <Item>props_door_comptoir2.ydr</Item>
+    <Item>props_door2.ydr</Item>
+    <Item>props_door3.ydr</Item>
+    <Item>props_etagere.ydr</Item>
+    <Item>props_fenetre_comptoir.ydr</Item>
+    <Item>props_horloge.ydr</Item>
+    <Item>props_light.ydr</Item>
+    <Item>props_light_room2.ydr</Item>
+    <Item>props_light1.ydr</Item>
+    <Item>props_livres.ydr</Item>
+    <Item>props_livres2.ydr</Item>
+    <Item>props_livres3.ydr</Item>
+    <Item>props_livres4.ydr</Item>
+    <Item>props_livres5.ydr</Item>
+    <Item>props_livres6.ydr</Item>
+    <Item>props_livres7.ydr</Item>
+    <Item>props_livres8.ydr</Item>
+    <Item>props_locker.ydr</Item>
+    <Item>props_m51_laptop.ydr</Item>
+    <Item>props_meuble.ydr</Item>
+    <Item>props_meuble2.ydr</Item>
+    <Item>props_officedesk.ydr</Item>
+    <Item>props_offshelfdark1.ydr</Item>
+    <Item>props_plant.ydr</Item>
+    <Item>props_plant2.ydr</Item>
+    <Item>props_platre1.ydr</Item>
+    <Item>props_platre2.ydr</Item>
+    <Item>props_platre3.ydr</Item>
+    <Item>props_table.ydr</Item>
+    <Item>props_tableau.ydr</Item>
+    <Item>props_tableau2.ydr</Item>
+    <Item>props_tableau3.ydr</Item>
+    <Item>props_tapis.ydr</Item>
+    <Item>sc1_28_build04.ydr</Item>
+    <Item>shell_model_keys.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
